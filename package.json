@@ -1,0 +1,20 @@
+{
+  "name": "certamenbotv2",
+  "version": "1.0.0",
+  "description": "A revival of the classic CertamenBot on Discord. For use in quiz bowl style games like Certamen.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FirePhoenix555/CertamenBotV2.git"
+  },
+  "author": "Fire",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.12.0",
+    "dotenv": "^16.3.1"
+  }
+}
